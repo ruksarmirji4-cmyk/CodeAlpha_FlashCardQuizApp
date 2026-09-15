@@ -5,7 +5,7 @@ const defaults = [
   },
   {
     q: "What is CSS?",
-    a: "CSS (Cascading Style Sheets) is used to style and format web pages."
+    a: "CSS (Cascading Style Sheets) is used to style and format web pages ."
   },
   {
     q: "What does JavaScript add to a web page?",
